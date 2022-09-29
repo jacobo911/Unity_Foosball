@@ -1,0 +1,225 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.40f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.40f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=1069 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=331 outsize=680 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=759 outsize=806 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3405 outsize=3172 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3405 outsize=3833 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3405 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3405 outsize=15720 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13751 outsize=1863 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13751 outsize=1916 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=2922 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=2631 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=1634 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=1461 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=2241 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3412 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3373 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3608 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3447 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3865 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3489 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3975 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=5043 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=5194 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=5217 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=6504 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=3370 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=2266 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2720): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2747): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2763): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2765): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2767): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(2769): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=88450 outsize=4831 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15390 outsize=2884 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=67361 outsize=5799 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=67361 outsize=9793 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=67361 outsize=9121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4587 outsize=2528 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=76423 outsize=5015 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=467 outsize=2233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13363 outsize=10489 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1069 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=776 outsize=9765 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=782 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=759 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=787 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=791 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=786 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1229 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1520 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1340 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1248 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1387 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1628 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1401 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1287 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11209 outsize=1824 ok=1
+Cmd: shutdown
+
+Quitting shader compiler process

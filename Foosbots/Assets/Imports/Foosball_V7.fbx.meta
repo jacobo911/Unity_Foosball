@@ -1,9 +1,54 @@
 fileFormatVersion: 2
-guid: 3a45a39d5a720f140aa9e27c3cf98b29
+guid: b708b4585b7684b48b9f75fde9b3a4a1
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Ball
+    second: {fileID: 2100000, guid: d4cb796ee88dbc1479618818bbd74705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Body
+    second: {fileID: 2100000, guid: 3dc8e6059adccd846adeda0fb5dd1b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Body.001
+    second: {fileID: 2100000, guid: 69c73c50af6c5864285b9fb98a8c9694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Field
+    second: {fileID: 2100000, guid: fea51710da5df3249abfc49419437f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Foosman.Blue
+    second: {fileID: 2100000, guid: 3467cfae088bcea45b7cb817bf0d9fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Foosman.Red
+    second: {fileID: 2100000, guid: 65015fac2e6c2054e98ce88c2fc70fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.RS
+    second: {fileID: 2100000, guid: a674396e1e910754f8d52e4372362c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Ramps
+    second: {fileID: 2100000, guid: 9d07a417e3de31f4a9a5b915cedebc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.Rod
+    second: {fileID: 2100000, guid: 6d977f738d1e5394db4eef5d08e307bb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

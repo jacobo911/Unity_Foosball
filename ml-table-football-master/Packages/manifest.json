@@ -4,7 +4,7 @@
     "com.unity.analytics": "3.6.12",
     "com.unity.collab-proxy": "1.14.18",
     "com.unity.ide.visualstudio": "2.0.15",
-    "com.unity.ml-agents": "file:./ml-agents-latest_release/com.unity.ml-agents",
+    "com.unity.ml-agents": "2.0.1",
     "com.unity.package-validation-suite": "0.7.15-preview",
     "com.unity.purchasing": "4.1.5",
     "com.unity.textmeshpro": "2.1.4",

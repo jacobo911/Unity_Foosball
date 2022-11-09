@@ -1,0 +1,29 @@
+{
+    "Foosbots_working": {
+        "checkpoints": [
+            {
+                "steps": 20914,
+                "file_path": "results\\train1\\Foosbots_working\\Foosbots_working-20914.onnx",
+                "reward": null,
+                "creation_time": 1667443877.2547693,
+                "auxillary_file_paths": [
+                    "results\\train1\\Foosbots_working\\Foosbots_working-20914.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 20914,
+            "file_path": "results\\train1\\Foosbots_working.onnx",
+            "reward": null,
+            "creation_time": 1667443877.2547693,
+            "auxillary_file_paths": [
+                "results\\train1\\Foosbots_working\\Foosbots_working-20914.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
